@@ -1,6 +1,6 @@
 {
-  "name": "@chameleon-nexus-tech/gemini-cli",
-  "version": "1.1.0",
+  "name": "@chameleon-nexus-tech/gemini-cli-openrouter",
+  "version": "0.0.1",
   "engines": {
     "node": ">=20.0.0"
   },
@@ -10,10 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chameleon-nexus/gemini-cli.git"
+    "url": "git+https://github.com/chameleon-nexus/gemini-cli-openrouter.git"
   },
-  "description": "Gemini CLI modified to use Volcengine AI instead of Google Gemini API. Based on the original Google Gemini CLI.",
-  "keywords": ["gemini", "volcengine", "ai", "cli", "chatbot", "assistant"],
+  "description": "Gemini CLI - OpenRouter Edition: Access 200+ AI models through OpenRouter's unified API. Enhanced version of Google Gemini CLI with multi-engine support.",
+  "keywords": ["gemini", "openrouter", "ai", "cli", "chatbot", "assistant", "multi-engine", "gpt-4", "claude", "llama"],
   "author": "Chameleon Nexus Tech",
   "license": "Apache-2.0",
   "config": {
