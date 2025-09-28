@@ -1,0 +1,42 @@
+Gemini CLI - OpenRouter Edition
+Copyright 2025 Chameleon Nexus Tech
+
+This product is a modified version of Google Gemini CLI.
+
+This product contains software developed by Google LLC.
+Original work: Google Gemini CLI
+Copyright 2025 Google LLC
+Licensed under the Apache License, Version 2.0
+
+The original software can be found at:
+https://github.com/google-gemini/gemini-cli
+
+Modifications made by Chameleon Nexus Tech:
+- Added OpenRouter integration for access to 200+ AI models
+- Added multi-engine support (OpenRouter, GLM, Volcengine, Azure, Ollama, Bailian)
+- Added OpenRouter API adapter and format conversion
+- Added GLM (Zhipu AI) API adapter and format conversion
+- Added Volcengine AI API adapter and format conversion
+- Added Azure OpenAI API adapter and format conversion
+- Added Ollama API adapter and format conversion
+- Added Bailian (Alibaba Cloud) API adapter and format conversion
+- Modified content generator factory to support multiple AI engines
+- Enhanced with OpenRouter's unified API for model flexibility
+
+All modifications are licensed under the Apache License, Version 2.0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
