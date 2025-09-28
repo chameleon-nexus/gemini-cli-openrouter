@@ -19,6 +19,14 @@
 
 **Get Involved**: Have suggestions or want to contribute? Contact us at **mythicscribe2014@gmail.com** - we'd love to hear from you!
 
+**💖 Support Our Mission**: Love this project? Consider supporting our development through donations! Your contributions help us:
+- Maintain and improve the codebase
+- Add support for more AI models
+- Enhance performance and reliability
+- Keep the project free and open-source
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-❤-ff69b4)](https://github.com/sponsors/chameleon-nexus) [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue)](https://paypal.me/mythicscribe2014) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow)](https://buymeacoffee.com/mythicscribe2014)
+
 ## 🌐 Language Switch
 
 | 🇺🇸 **English** | 🇻🇳 [Tiếng Việt](README.vi.md) | 🇯🇵 [日本語](README.ja.md) | 🇩🇪 [Deutsch](README.de.md) | 🇸🇦 [العربية](README.ar.md) | 🇨🇳 [中文](README.zh.md) |
@@ -233,7 +241,7 @@ If you're migrating from the original Google Gemini CLI:
 2. **Install this version**: `npm install -g @chameleon-nexus-tech/gemini-cli`
 3. **Get OpenRouter API key**: Sign up at [OpenRouter](https://openrouter.ai/keys)
 4. **Set the 4 required environment variables**:
-   ```bash
+```bash
    export AI_ENGINE="openrouter"
    export AI_API_KEY="your-openrouter-api-key"
    export AI_MODEL="openai/gpt-4o"

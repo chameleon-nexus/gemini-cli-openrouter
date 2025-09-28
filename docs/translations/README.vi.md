@@ -19,6 +19,14 @@
 
 **Tham gia**: Có gợi ý hoặc muốn đóng góp? Liên hệ với chúng tôi tại **mythicscribe2014@gmail.com** - chúng tôi rất muốn nghe từ bạn!
 
+**💖 Hỗ trợ sứ mệnh của chúng tôi**: Yêu thích dự án này? Hãy cân nhắc hỗ trợ phát triển của chúng tôi thông qua quyên góp! Đóng góp của bạn giúp chúng tôi:
+- Duy trì và cải thiện codebase
+- Thêm hỗ trợ cho nhiều mô hình AI hơn
+- Nâng cao hiệu suất và độ tin cậy
+- Giữ dự án miễn phí và mã nguồn mở
+
+[![GitHub Sponsors](https://img.shields.io/badge/Tài%20trợ-❤-ff69b4)](https://github.com/sponsors/chameleon-nexus) [![PayPal](https://img.shields.io/badge/PayPal-Quyên%20góp-blue)](https://paypal.me/mythicscribe2014) [![Buy Me a Coffee](https://img.shields.io/badge/Mua%20cà%20phê%20cho%20tôi-Quyên%20góp-yellow)](https://buymeacoffee.com/mythicscribe2014)
+
 ## 🌐 Chuyển đổi ngôn ngữ
 
 | 🇺🇸 [English](../README.md) | 🇻🇳 **Tiếng Việt** | 🇯🇵 [日本語](README.ja.md) | 🇩🇪 [Deutsch](README.de.md) | 🇸🇦 [العربية](README.ar.md) | 🇨🇳 [中文](README.zh.md) |

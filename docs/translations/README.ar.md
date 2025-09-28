@@ -19,6 +19,14 @@
 
 **شارك**: لديك اقتراحات أو تريد المساهمة؟ تواصل معنا على **mythicscribe2014@gmail.com** - نحن نحب أن نسمع منك!
 
+**💖 ادعم مهمتنا**: تحب هذا المشروع؟ فكر في دعم تطويرنا من خلال التبرعات! مساهماتك تساعدنا:
+- صيانة وتحسين قاعدة الكود
+- إضافة دعم لمزيد من نماذج الذكاء الاصطناعي
+- تحسين الأداء والموثوقية
+- الحفاظ على المشروع مجاني ومفتوح المصدر
+
+[![GitHub Sponsors](https://img.shields.io/badge/راعي-❤-ff69b4)](https://github.com/sponsors/chameleon-nexus) [![PayPal](https://img.shields.io/badge/PayPal-تبرع-blue)](https://paypal.me/mythicscribe2014) [![Buy Me a Coffee](https://img.shields.io/badge/اشتر%20لي%20قهوة-تبرع-yellow)](https://buymeacoffee.com/mythicscribe2014)
+
 ## 🌐 تبديل اللغة
 
 | 🇺🇸 [English](../README.md) | 🇻🇳 [Tiếng Việt](README.vi.md) | 🇯🇵 [日本語](README.ja.md) | 🇩🇪 [Deutsch](README.de.md) | 🇸🇦 **العربية** | 🇨🇳 [中文](README.zh.md) |
@@ -233,7 +241,7 @@ packages/core/src/core/
 2. **تثبيت هذا الإصدار**: `npm install -g @chameleon-nexus-tech/gemini-cli`
 3. **الحصول على مفتاح OpenRouter API**: سجل في [OpenRouter](https://openrouter.ai/keys)
 4. **تعيين 4 متغيرات البيئة المطلوبة**:
-   ```bash
+```bash
    export AI_ENGINE="openrouter"
    export AI_API_KEY="your-openrouter-api-key"
    export AI_MODEL="openai/gpt-4o"

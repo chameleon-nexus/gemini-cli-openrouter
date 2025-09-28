@@ -19,6 +19,14 @@
 
 **参与其中**: 有建议或想要贡献？联系我们 **mythicscribe2014@gmail.com** - 我们很乐意听到您的声音！
 
+**💖 支持我们的使命**: 喜欢这个项目？考虑通过捐赠支持我们的开发！您的贡献帮助我们：
+- 维护和改进代码库
+- 添加更多AI模型支持
+- 提升性能和可靠性
+- 保持项目免费和开源
+
+[![GitHub Sponsors](https://img.shields.io/badge/赞助-❤-ff69b4)](https://github.com/sponsors/chameleon-nexus) [![PayPal](https://img.shields.io/badge/PayPal-捐赠-blue)](https://paypal.me/mythicscribe2014) [![Buy Me a Coffee](https://img.shields.io/badge/请我喝咖啡-捐赠-yellow)](https://buymeacoffee.com/mythicscribe2014)
+
 ## 🌐 语言切换
 
 | 🇺🇸 [English](../README.md) | 🇻🇳 [Tiếng Việt](README.vi.md) | 🇯🇵 [日本語](README.ja.md) | 🇩🇪 [Deutsch](README.de.md) | 🇸🇦 [العربية](README.ar.md) | 🇨🇳 **中文** |
