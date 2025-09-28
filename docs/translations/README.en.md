@@ -22,8 +22,23 @@
 
 ## 📦 Installation
 
+### 🚀 Quick Install (Recommended)
+
 ```bash
-npm install -g @chameleon-nexus-tech/gemini-cli
+npm install -g @chameleon-nexus-tech/gemini-cli-openrouter
+```
+
+### 📋 Alternative Installation Methods
+
+```bash
+# Using npm (Node.js package manager)
+npm install -g @chameleon-nexus-tech/gemini-cli-openrouter
+
+# Using yarn
+yarn global add @chameleon-nexus-tech/gemini-cli-openrouter
+
+# Using pnpm
+pnpm add -g @chameleon-nexus-tech/gemini-cli-openrouter
 ```
 
 ## 🎛️ OpenRouter Integration

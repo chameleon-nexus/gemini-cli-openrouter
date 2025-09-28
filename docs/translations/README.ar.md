@@ -22,8 +22,23 @@
 
 ## 📦 التثبيت
 
+### 🚀 التثبيت السريع (موصى به)
+
 ```bash
-npm install -g @chameleon-nexus-tech/gemini-cli
+npm install -g @chameleon-nexus-tech/gemini-cli-openrouter
+```
+
+### 📋 طرق التثبيت البديلة
+
+```bash
+# استخدام npm (مدير حزم Node.js)
+npm install -g @chameleon-nexus-tech/gemini-cli-openrouter
+
+# استخدام yarn
+yarn global add @chameleon-nexus-tech/gemini-cli-openrouter
+
+# استخدام pnpm
+pnpm add -g @chameleon-nexus-tech/gemini-cli-openrouter
 ```
 
 ## 🎛️ تكامل OpenRouter

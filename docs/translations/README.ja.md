@@ -22,8 +22,23 @@
 
 ## 📦 インストール
 
+### 🚀 クイックインストール (推奨)
+
 ```bash
-npm install -g @chameleon-nexus-tech/gemini-cli
+npm install -g @chameleon-nexus-tech/gemini-cli-openrouter
+```
+
+### 📋 その他のインストール方法
+
+```bash
+# npmを使用 (Node.jsパッケージマネージャー)
+npm install -g @chameleon-nexus-tech/gemini-cli-openrouter
+
+# yarnを使用
+yarn global add @chameleon-nexus-tech/gemini-cli-openrouter
+
+# pnpmを使用
+pnpm add -g @chameleon-nexus-tech/gemini-cli-openrouter
 ```
 
 ## 🎛️ OpenRouter統合

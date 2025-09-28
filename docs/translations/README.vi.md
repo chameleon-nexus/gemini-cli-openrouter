@@ -22,8 +22,23 @@
 
 ## 📦 Cài đặt
 
+### 🚀 Cài đặt nhanh (Khuyến nghị)
+
 ```bash
-npm install -g @chameleon-nexus-tech/gemini-cli
+npm install -g @chameleon-nexus-tech/gemini-cli-openrouter
+```
+
+### 📋 Các phương thức cài đặt khác
+
+```bash
+# Sử dụng npm (Trình quản lý gói Node.js)
+npm install -g @chameleon-nexus-tech/gemini-cli-openrouter
+
+# Sử dụng yarn
+yarn global add @chameleon-nexus-tech/gemini-cli-openrouter
+
+# Sử dụng pnpm
+pnpm add -g @chameleon-nexus-tech/gemini-cli-openrouter
 ```
 
 ## 🎛️ Tích hợp OpenRouter

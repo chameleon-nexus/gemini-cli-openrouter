@@ -22,8 +22,23 @@
 
 ## 📦 安装
 
+### 🚀 快速安装 (推荐)
+
 ```bash
-npm install -g @chameleon-nexus-tech/gemini-cli
+npm install -g @chameleon-nexus-tech/gemini-cli-openrouter
+```
+
+### 📋 其他安装方式
+
+```bash
+# 使用 npm (Node.js 包管理器)
+npm install -g @chameleon-nexus-tech/gemini-cli-openrouter
+
+# 使用 yarn
+yarn global add @chameleon-nexus-tech/gemini-cli-openrouter
+
+# 使用 pnpm
+pnpm add -g @chameleon-nexus-tech/gemini-cli-openrouter
 ```
 
 ## 🎛️ OpenRouter集成
