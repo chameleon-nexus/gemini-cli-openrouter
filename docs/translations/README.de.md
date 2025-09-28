@@ -19,14 +19,6 @@
 
 **Mitmachen**: Haben Sie Vorschläge oder möchten Sie beitragen? Kontaktieren Sie uns unter **mythicscribe2014@gmail.com** - wir freuen uns auf Ihre Nachricht!
 
-**💖 Unterstützen Sie unsere Mission**: Lieben Sie dieses Projekt? Erwägen Sie, unsere Entwicklung durch Spenden zu unterstützen! Ihre Beiträge helfen uns:
-- Codebasis zu warten und zu verbessern
-- Unterstützung für mehr KI-Modelle hinzuzufügen
-- Leistung und Zuverlässigkeit zu verbessern
-- Das Projekt kostenlos und Open Source zu halten
-
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-❤-ff69b4)](https://github.com/sponsors/chameleon-nexus) [![PayPal](https://img.shields.io/badge/PayPal-Spenden-blue)](https://paypal.me/mythicscribe2014) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Spenden-yellow)](https://buymeacoffee.com/mythicscribe2014)
-
 ## 🌐 Sprachwechsel
 
 | 🇺🇸 [English](../README.md) | 🇻🇳 [Tiếng Việt](README.vi.md) | 🇯🇵 [日本語](README.ja.md) | 🇩🇪 **Deutsch** | 🇸🇦 [العربية](README.ar.md) | 🇨🇳 [中文](README.zh.md) |
