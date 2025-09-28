@@ -7,6 +7,18 @@
 
 > ⚠️ **Wichtiger Hinweis**: Dies ist eine modifizierte Version von [Google Gemini CLI](https://github.com/google-gemini/gemini-cli). Das Urheberrecht des ursprünglichen Projekts gehört Google LLC unter Apache 2.0 Lizenz.
 
+## 🌟 Projektstatus & zukünftige Entwicklung
+
+**Aktueller Status**: Dieses Projekt unterstützt derzeit eine kuratierte Auswahl hochperformanter Modelle durch OpenRouter-Integration. Wir arbeiten aktiv daran, die Modellkompatibilität zu erweitern und Funktionen zu verbessern.
+
+**Community-getrieben**: Ihre Unterstützung hilft uns beim Wachstum! ⭐ Vergeben Sie einen Stern an dieses Repository und erwägen Sie einen Beitrag, um uns zu helfen:
+- Unterstützung für mehr KI-Modelle hinzufügen
+- Leistung und Zuverlässigkeit verbessern
+- Neue Funktionen und Integrationen entwickeln
+- Umfassende Dokumentation pflegen
+
+**Mitmachen**: Haben Sie Vorschläge oder möchten Sie beitragen? Kontaktieren Sie uns unter **mythicscribe2014@gmail.com** - wir freuen uns auf Ihre Nachricht!
+
 ## 🌐 Sprachwechsel
 
 | 🇺🇸 [English](../README.md) | 🇻🇳 [Tiếng Việt](README.vi.md) | 🇯🇵 [日本語](README.ja.md) | 🇩🇪 **Deutsch** | 🇸🇦 [العربية](README.ar.md) | 🇨🇳 [中文](README.zh.md) |

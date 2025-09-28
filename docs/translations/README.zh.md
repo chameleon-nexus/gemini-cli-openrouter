@@ -7,6 +7,18 @@
 
 > ⚠️ **重要声明**: 这是 [Google Gemini CLI](https://github.com/google-gemini/gemini-cli) 的修改版本。原始项目版权归 Google LLC 所有，遵循 Apache 2.0 许可证。
 
+## 🌟 项目状态与未来发展
+
+**当前状态**: 本项目目前通过OpenRouter集成支持精选的高性能模型。我们正在积极扩展模型兼容性并增强功能。
+
+**社区驱动**: 您的支持帮助我们成长！⭐ 为这个仓库点赞并考虑贡献，帮助我们：
+- 添加更多AI模型支持
+- 提升性能和可靠性
+- 开发新功能和集成
+- 维护全面的文档
+
+**参与其中**: 有建议或想要贡献？联系我们 **mythicscribe2014@gmail.com** - 我们很乐意听到您的声音！
+
 ## 🌐 语言切换
 
 | 🇺🇸 [English](../README.md) | 🇻🇳 [Tiếng Việt](README.vi.md) | 🇯🇵 [日本語](README.ja.md) | 🇩🇪 [Deutsch](README.de.md) | 🇸🇦 [العربية](README.ar.md) | 🇨🇳 **中文** |
